@@ -55,7 +55,7 @@ const Galeria = () => {
           fontSize: { xs: '2rem', md: '3rem' }
         }}
       >
-        Nuestra Galería
+        Nuestro Trabajo
       </Typography>
       
       <Box
