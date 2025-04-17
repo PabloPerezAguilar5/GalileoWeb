@@ -16,7 +16,7 @@ const Footer = () => {
         <Grid container spacing={3}>
           <Grid item xs={12} sm={4}>
             <Typography variant="h6" gutterBottom>
-              Galileo
+              Galileo Sueños
             </Typography>
             <Typography variant="body2">
               Soluciones graficas para tu negocio o regalo personalizado
